@@ -1,0 +1,23 @@
+{
+  "name": "vxe-table-enter",
+  "version": "1.0.0",
+  "description": "vxetable新增上下左右切换，ernter按键切换选中功能",
+  "main": "lib/index.common.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaosnCiCi/vxe-table-enter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaosnCiCi/vxe-table-enter/issues"
+  },
+  "homepage": "https://github.com/JaosnCiCi/vxe-table-enter#readme"
+}
