@@ -1,6 +1,6 @@
 {
   "name": "vxe-table-enter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vxetable新增上下左右切换，ernter按键切换选中功能",
   "main": "lib/index.common.js",
   "directories": {
